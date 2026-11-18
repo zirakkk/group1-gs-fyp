@@ -10,3 +10,4 @@ AI assistance (e.g. Claude) is noted where it was used.
 | 2026-10-27 | Gul Zareen | Found the prompt mismatch between released code and authors' logs | Explain the gap to the paper | results/reproduction_notes.md | Yes |
 | 2026-11-17 | Muhammad Shees | PDDL runs; restored the authors' prompt template (no memory: 15.5% vs paper 16.17%) | Reproduce the paper on PDDL | baseline/gmemory (branch pddl-authors-prompt) | Yes |
 | 2026-11-18 | Muhammad Shees | Set up the group repo: G-Memory linked as submodule, folders, this log | Keep team work clear and traceable | this branch | Yes |
+| 2026-11-18 | Muhammad Shees | PDDL results file: five runs, setup fix and findings | Record the PDDL reproduction and why G-Memory's gain is unstable | results/baseline_pddl_qwen7b.md | Yes |
