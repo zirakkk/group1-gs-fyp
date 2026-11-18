@@ -1,0 +1,4 @@
+[submodule "baseline/gmemory"]
+	path = baseline/gmemory
+	url = https://github.com/MOSHO1133/GMemory.git
+	branch = pddl-authors-prompt
