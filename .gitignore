@@ -1,0 +1,18 @@
+# Secrets: never commit API keys
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter autosaves
+.ipynb_checkpoints/
+
+# Run outputs and downloaded data (large, can be re-created)
+.db/
+data/alfworld/json_2.1.1/
+*.zip
+
+# Editor and OS files
+.vscode/
+.DS_Store
